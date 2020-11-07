@@ -1,9 +1,11 @@
-### Horiseon_website
+## Horiseon_website
 
-## Description
+### Description
 
-## Screenshot
+### Screenshot
 
-## Changes Made
+![website screenshot](https://raw.githubusercontent.com/inesr19/Horiseon_website/main/assets/images/horiseon-website.png)
 
-## Link
+### Changes Made
+
+### Link
