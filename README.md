@@ -18,3 +18,4 @@ Horiseon is a social solution service that provides increasing traffic for a bus
 8. Added website screenshot, description, and link to readme file.
 
 ### Link
+<https://inesr19.github.io/Horiseon_website/>
