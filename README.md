@@ -7,6 +7,14 @@ Horiseon is a social solution service that provides increasing traffic for a bus
 
 ![website screenshot](https://raw.githubusercontent.com/inesr19/Horiseon_website/main/assets/images/horiseon-website.png)
 
-### Changes Made
+### Changes Made - Source Code
+1. Added and updated semantic elements to html and css files.
+2. updated indentations and organized structure in html and css files.
+3. Added comments to both html and css files.
+4. Added “alt” attributes to images.
+5. Changed name in title element to something more concise and descriptive.
+6. Changed class names.
+7. Removed unnecessary css elements and combined identical classes in css.
+8. Added website screenshot, description, and link to readme file.
 
 ### Link
